@@ -1,0 +1,4 @@
+interface:
+  display_name: "Yang 的微博与读书笔记"
+  short_description: "从事实、机制与边界出发，创作克制而有判断力的微博和读书笔记"
+  default_prompt: "使用 $yang-weibo-book-notes 根据这些素材创作一篇可直接发布的中文微博或读书笔记。"
